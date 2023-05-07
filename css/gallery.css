@@ -1,0 +1,9 @@
+@import "main.css";
+@import "custom.css";
+
+#imed-gallery {
+  margin: auto;
+  width: 75%;
+  padding: 10px;
+  background-color: var(--dominantColor) !important;
+}
